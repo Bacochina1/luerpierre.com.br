@@ -162,7 +162,7 @@ export default function LueurPierrePage() {
       </div>
       
       <footer className="absolute bottom-4 w-full text-center z-10 pb-4 lg:pb-0">
-         <p className="text-[9px] text-stone-700 tracking-[0.3em] uppercase">Lueur Pierre © 2025</p>
+         <p className="text-[9px] text-stone-500 tracking-[0.3em] uppercase">Lueur Pierre © 2025</p>
       </footer>
     </main>
   )
