@@ -38,9 +38,13 @@ export default function LueurPierrePage() {
       
       {/* --- 1. BANNER FIXO --- */}
       <nav className="fixed top-0 left-0 w-full h-16 bg-black z-50 flex items-center justify-center border-b border-white/5 shadow-lg">
-        <span className="text-xl font-serif tracking-[0.2em] uppercase text-white">
-          Lueur Pierre
-        </span>
+     <Image 
+                    src="/logo.png" 
+                    alt="LUEUR PIERRE" 
+                    width={200} 
+                    height={80} 
+                    className="w-[190px] h-auto object-contain"
+                  />
       </nav>
 
       {/* --- 2. FUNDO --- */}
