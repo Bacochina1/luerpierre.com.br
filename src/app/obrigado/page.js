@@ -17,7 +17,7 @@ export default function ThankYouPage() {
           src="/bg.png" 
           alt="Background" 
           fill
-          className="object-cover opacity-50 scale-105 animate-[pulse_15s_ease-in-out_infinite]" 
+          className="object-cover opacity-[0.6] scale-105 animate-[pulse_15s_ease-in-out_infinite]" 
           priority
         />
         {/* Overlay pesado para garantir o fundo escuro */}
